@@ -1,0 +1,37 @@
+body {
+  background: url(./img/fondo.jpg) no-repeat center;
+  background-size: cover;
+  font-family: 'Carter One', Arial, Helvetica, sans-serif;
+  min-height: 100vh;
+}
+
+
+.titulo {
+  padding: 15px;
+  width: 30vw;
+  margin: auto;
+
+}
+
+.btn {
+  border: 0;
+  color: white;
+  font-weight: bold;
+  background-color: rgb(38, 192, 219);
+  padding: 10px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  border-radius: 0.5em;
+}
+
+.text-input {
+  border-radius: 0.5em;
+  border: 1px solid rgba(8, 82, 192, 0.993);
+  display: block;
+  padding: 0.3em;
+  margin: .5em;
+  width: 80%;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
